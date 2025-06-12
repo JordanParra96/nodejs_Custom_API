@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "farmacy api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanParra96/nodejsAPI.git"
+  },
+  "keywords": [
+    "NODE",
+    "JS"
+  ],
+  "author": "Jordan Parra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordanParra96/nodejsAPI/issues"
+  },
+  "homepage": "https://github.com/JordanParra96/nodejsAPI#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

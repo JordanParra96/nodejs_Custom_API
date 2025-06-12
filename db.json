@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "fusion water",
+            "category": "bloqueadores",
+            "price": 100000
+        },
+        {
+            "id": 2,
+            "name": "sebium",
+            "category": "limpiadores",
+            "price": 10000
+        },
+        {
+            "id": 3,
+            "name": "iso100",
+            "category": "medicamentos",
+            "price": 15000
+        },
+        {
+            "id": 4,
+            "name": "piloskin",
+            "category": "shampoos",
+            "price": 20000
+        },
+        {
+            "id": 5,
+            "name": "hydra skin",
+            "category": "hidratantes",
+            "price": 25000
+        },
+        {
+            "id": 6,
+            "name": "contreact",
+            "category": "limpiadores",
+            "price": 30000
+        }
+    ]
+}
